@@ -1,6 +1,6 @@
 # Video Template Marketplace
 
-A production-quality Flutter mobile app for browsing and uploading video editing templates. Built with clean architecture principles and a minimalist, startup-grade UI.
+A Flutter mobile app for browsing and uploading video editing templates. Built with clean architecture principles and a minimalist UI.
 
 ## Features
 
